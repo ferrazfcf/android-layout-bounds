@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>ferrazfcf.android-layout-bounds</id>
+    <name>Android Layout Bounds</name>
+    <vendor email="ferrazfcf@gmail.com">Felipe Ferraz</vendor>
+
+    <description><![CDATA[
+    This plugin easily toggle android layout bounds.<br>
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
